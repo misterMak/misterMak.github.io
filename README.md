@@ -24,6 +24,10 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+GIT_vscode
+909086a581162c625181a53b12ed6d2d956f223b
+gist b0885cb71f9df4cdaa99a29756ca9eb3
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
