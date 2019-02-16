@@ -27,7 +27,7 @@ Syntax highlighted code block
 
 GIT_vscode
 3379415aa906db15579dc3e5418ef4ec75a7bb6f
-gist c0d613e6254901143ad90404f60a7bfb
+gist 617e8963566f67df6a7a5e643a90d10a
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
