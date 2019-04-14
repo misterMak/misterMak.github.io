@@ -26,8 +26,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 
 GIT_vscode
-a2649ae579dc2305925e484a5ab87003e6800d23
-gist df99d80f1ea3b2aa14b0d4748fcd1ba8ccf2ad60
+df99d80f1ea3b2aa14b0d4748fcd1ba8ccf2ad60
+gist 831a759dd5c1cea92f412220a587f490
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
