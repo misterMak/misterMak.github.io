@@ -26,8 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 
 GIT_vscode
-865e1720e21e5f5c8759057b118fdcd075333ef0
-gist 1c179d771c8b5168e6ace1d5d4ba5dc4
+gist 12e3d2fef1165127a1bcc96ae669a99d
 
 ```
 
